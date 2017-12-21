@@ -1,1 +1,2 @@
-# ChatRoom   based on java socket tread GUI
+# ChatRoom   
+## based on java socket thread GUI
